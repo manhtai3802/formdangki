@@ -1,0 +1,26 @@
+body {
+  margin: 0 auto;
+  box-sizing: border-box;
+  width: fit-content;
+}
+
+.topic {
+  font-size: 25px;
+  background-color: rgba(116, 112, 112, 0.123);
+  box-sizing: border-box;
+  padding: 0 40px;
+  width: 400px;
+  }
+
+.Information {
+  display: grid;
+  grid-template-columns: 100px auto;
+   padding: 10px;
+}
+
+.sub {
+  font-size: 18px;
+  display: table;
+  margin: 0 auto;
+}
+
